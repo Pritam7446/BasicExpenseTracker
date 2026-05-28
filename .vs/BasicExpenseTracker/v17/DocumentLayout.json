@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BasicExpenseTracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{20ADC2F9-99BF-4B4B-8A1C-CE7A2F80E41B}|BasicExpenseTracker.csproj|c:\\users\\user\\source\\repos\\basicexpensetracker\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ADC2F9-99BF-4B4B-8A1C-CE7A2F80E41B}|BasicExpenseTracker.csproj|solutionrelative:models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ADC2F9-99BF-4B4B-8A1C-CE7A2F80E41B}|BasicExpenseTracker.csproj|c:\\users\\user\\source\\repos\\basicexpensetracker\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ADC2F9-99BF-4B4B-8A1C-CE7A2F80E41B}|BasicExpenseTracker.csproj|solutionrelative:controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ADC2F9-99BF-4B4B-8A1C-CE7A2F80E41B}|BasicExpenseTracker.csproj|c:\\users\\user\\source\\repos\\basicexpensetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20ADC2F9-99BF-4B4B-8A1C-CE7A2F80E41B}|BasicExpenseTracker.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ADC2F9-99BF-4B4B-8A1C-CE7A2F80E41B}|BasicExpenseTracker.csproj|c:\\users\\user\\source\\repos\\basicexpensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ADC2F9-99BF-4B4B-8A1C-CE7A2F80E41B}|BasicExpenseTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ADC2F9-99BF-4B4B-8A1C-CE7A2F80E41B}|BasicExpenseTracker.csproj|c:\\users\\user\\source\\repos\\basicexpensetracker\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20ADC2F9-99BF-4B4B-8A1C-CE7A2F80E41B}|BasicExpenseTracker.csproj|solutionrelative:views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ADC2F9-99BF-4B4B-8A1C-CE7A2F80E41B}|BasicExpenseTracker.csproj|c:\\users\\user\\source\\repos\\basicexpensetracker\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ADC2F9-99BF-4B4B-8A1C-CE7A2F80E41B}|BasicExpenseTracker.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20ADC2F9-99BF-4B4B-8A1C-CE7A2F80E41B}|BasicExpenseTracker.csproj|c:\\users\\user\\source\\repos\\basicexpensetracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20ADC2F9-99BF-4B4B-8A1C-CE7A2F80E41B}|BasicExpenseTracker.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,15 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BasicExpenseTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BasicExpenseTracker\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T14:33:59.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BasicExpenseTracker\\Views\\Expenses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Expenses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BasicExpenseTracker\\Views\\Expenses\\Index.cshtml",
+              "RelativeToolTip": "Views\\Expenses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T06:18:57.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpensesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BasicExpenseTracker\\Controllers\\ExpensesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExpensesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BasicExpenseTracker\\Controllers\\ExpensesController.cs",
+              "RelativeToolTip": "Controllers\\ExpensesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T06:14:48.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BasicExpenseTracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BasicExpenseTracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T06:07:22.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BasicExpenseTracker\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BasicExpenseTracker\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T06:03:22.83Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BasicExpenseTracker\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BasicExpenseTracker\\Models\\Expense.cs",
+              "RelativeToolTip": "Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T05:56:10.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BasicExpenseTracker\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -30,8 +136,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T15:00:04.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T15:00:04.324Z"
             }
           ]
         }
