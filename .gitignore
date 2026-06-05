@@ -231,6 +231,7 @@ _pkginfo.txt
 
 # Custom Rules: Ignore database configuration secrets
 appsettings.json
+appsettings.Development.json
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
