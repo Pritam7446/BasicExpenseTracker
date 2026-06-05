@@ -482,3 +482,7 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Custom Rules: Ignore database configuration secrets
+appsettings.json
+appsettings.Development.json
